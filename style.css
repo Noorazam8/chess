@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+.main{
+   
+    border: 1px solid black;
+    display: flex;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    font-size: 60px;
+    text-shadow: 2px 1px white;
+    text-align: center;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    font-size: 60px;
+    text-align: center;
+
+}
+.center{
+    border: 1px solid black;
+    display: flex;
+}
